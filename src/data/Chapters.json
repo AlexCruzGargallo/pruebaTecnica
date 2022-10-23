@@ -1,0 +1,731 @@
+[
+    [
+        
+        {
+            "chapterInfo": {
+                "chapterId": "994459b6-605f-4c4f-8f61-21e716eac61f",
+                "parentId": "root",
+                "name": "\r\nAcondicionamiento del terreno"
+            },
+            "chapterId": "994459b6-605f-4c4f-8f61-21e716eac61f",
+            "subchapters": [
+                {
+                    "chapterInfo": {
+                        "chapterId": "286e2f5c-a3b1-4ef9-bd38-caf966e54dd6",
+                        "parentId": "994459b6-605f-4c4f-8f61-21e716eac61f",
+                        "name": "Movimiento de tierras en edificación"
+                    },
+                    "parentId": "994459b6-605f-4c4f-8f61-21e716eac61f",
+                    "chapterId": "286e2f5c-a3b1-4ef9-bd38-caf966e54dd6",
+                    "subchapters": [
+                        {
+                            "chapterInfo": {
+                                "chapterId": "f9e76ddc-2332-4f89-9985-e4a1e1f36c20",
+                                "parentId": "286e2f5c-a3b1-4ef9-bd38-caf966e54dd6",
+                                "name": "Desbroce y limpieza"
+                                
+                            },
+                            "parentId": "286e2f5c-a3b1-4ef9-bd38-caf966e54dd6",
+                            "chapterId": "f9e76ddc-2332-4f89-9985-e4a1e1f36c20",
+                            "subchapters": []
+                        },
+                        {
+                            "chapterInfo": {
+                                "chapterId": "f2253ae0-52b1-4fa4-a888-ebd387f0ecd8",
+                                "parentId": "286e2f5c-a3b1-4ef9-bd38-caf966e54dd6",
+                                "name": "Desmontes"
+                            },
+                            "parentId": "286e2f5c-a3b1-4ef9-bd38-caf966e54dd6",
+                            "chapterId": "f2253ae0-52b1-4fa4-a888-ebd387f0ecd8",
+                            "subchapters": []
+                        },
+                        {
+                            "chapterInfo": {
+                                "chapterId": "840db181-4b11-459e-9538-3ce3ce17887b",
+                                "parentId": "286e2f5c-a3b1-4ef9-bd38-caf966e54dd6",
+                                "name": "Terraplenados"
+                            },
+                            "parentId": "286e2f5c-a3b1-4ef9-bd38-caf966e54dd6",
+                            "chapterId": "840db181-4b11-459e-9538-3ce3ce17887b",
+                            "subchapters": []
+                        },
+                        {
+                            "chapterInfo": {
+                                "chapterId": "6feb45ad-193b-4561-bd63-c229c74202ac",
+                                "parentId": "286e2f5c-a3b1-4ef9-bd38-caf966e54dd6",
+                                "name": "Excavaciones"
+                               
+                            },
+                            "parentId": "286e2f5c-a3b1-4ef9-bd38-caf966e54dd6",
+                            "chapterId": "6feb45ad-193b-4561-bd63-c229c74202ac",
+                            "subchapters": []
+                        }
+                        
+                    ]
+                },
+                {
+                    "chapterInfo": {
+                        "chapterId": "e3c1fbee-b01b-4a54-8029-6f251dac3dcf",
+                        "parentId": "994459b6-605f-4c4f-8f61-21e716eac61f",
+                        "name": "Red de saneamiento horizontal"
+                       
+                    },
+                    "parentId": "994459b6-605f-4c4f-8f61-21e716eac61f",
+                    "chapterId": "e3c1fbee-b01b-4a54-8029-6f251dac3dcf",
+                    "subchapters": [
+                        {
+                            "chapterInfo": {
+                                "chapterId": "1bdb4f49-a8ee-4269-a5fb-e93b0f53c81f",
+                                "parentId": "e3c1fbee-b01b-4a54-8029-6f251dac3dcf",
+                                "name": "Arquetas"
+                               
+                            },
+                            "parentId": "e3c1fbee-b01b-4a54-8029-6f251dac3dcf",
+                            "chapterId": "1bdb4f49-a8ee-4269-a5fb-e93b0f53c81f"
+                          
+                        },
+                        {
+                            "chapterInfo": {
+                                "chapterId": "5b29e666-0f35-4f22-8b7f-352ec93ebd13",
+            
+                                "parentId": "e3c1fbee-b01b-4a54-8029-6f251dac3dcf",
+                                "name": "Acometidas"
+                                
+                            },
+                            "parentId": "e3c1fbee-b01b-4a54-8029-6f251dac3dcf",
+               
+                            "chapterId": "5b29e666-0f35-4f22-8b7f-352ec93ebd13",
+                            "subchapters": []
+                            
+                        },
+                        {
+                            "chapterInfo": {
+                                "chapterId": "be2eb8ed-0f3d-4426-8307-ecff34f8c60a",
+            
+                                "parentId": "e3c1fbee-b01b-4a54-8029-6f251dac3dcf",
+                                "name": "Colectores"
+                               
+                            },
+                            "parentId": "e3c1fbee-b01b-4a54-8029-6f251dac3dcf",
+                    
+                            "chapterId": "be2eb8ed-0f3d-4426-8307-ecff34f8c60a"
+                           
+                        }
+                        
+                    ]
+                   
+                },
+                {
+                    "chapterInfo": {
+                        "chapterId": "e446e385-9e03-44e1-ba23-ba3df715b497",
+                        "parentId": "994459b6-605f-4c4f-8f61-21e716eac61f",
+                        "name": "Achiques y agotamientos"
+                       
+                    },
+                    "parentId": "994459b6-605f-4c4f-8f61-21e716eac61f",
+                   
+                    "chapterId": "e446e385-9e03-44e1-ba23-ba3df715b497",
+                    "subchapters": [
+                        {
+                            "chapterInfo": {
+                                "chapterId": "d5cbf6ca-01ea-4b9d-a79c-a74221dd8916",
+            
+                                "parentId": "e446e385-9e03-44e1-ba23-ba3df715b497",
+                                "name": "Pozos de bombeo"
+                            },
+                            "parentId": "e446e385-9e03-44e1-ba23-ba3df715b497",
+                            
+                            "chapterId": "d5cbf6ca-01ea-4b9d-a79c-a74221dd8916",
+                            "subchapters": []
+                           
+                        },
+                        {
+                            "chapterInfo": {
+                                "chapterId": "31e964eb-82f9-44be-a1c7-e19d641bb169",
+            
+                                "parentId": "e446e385-9e03-44e1-ba23-ba3df715b497",
+                                "name": "Bombas sumergibles"
+                               
+                            },
+                            "parentId": "e446e385-9e03-44e1-ba23-ba3df715b497",
+                            "chapterId": "31e964eb-82f9-44be-a1c7-e19d641bb169",
+                            "subchapters": []
+                        },
+                        {
+                            "chapterInfo": {
+                                "chapterId": "c98a6a8b-21db-4f96-8b41-bf5a0f126ba9",
+                                "parentId": "e446e385-9e03-44e1-ba23-ba3df715b497",
+                                "name": "Sistema Wellpoint"
+                                
+                            },
+                            "parentId": "e446e385-9e03-44e1-ba23-ba3df715b497",
+                          
+                            "chapterId": "c98a6a8b-21db-4f96-8b41-bf5a0f126ba9",
+                            "subchapters": []
+                          
+                        }
+                    ]
+                  
+                }
+            ]
+        },
+        {
+            "chapterInfo": {
+                "chapterId": "dad1a727-ee14-4584-96fd-a55611ef16e5",
+                "parentId": "root",
+                "name": "\r\nCimentaciones"
+            },
+          
+            "chapterId": "dad1a727-ee14-4584-96fd-a55611ef16e5",
+            "subchapters": [
+                {
+                    "chapterInfo": {
+                        "chapterId": "a2f482c2-f6f1-43b8-bea2-f0750cd22b6b",
+                        "parentId": "dad1a727-ee14-4584-96fd-a55611ef16e5",
+                        "name": "Profundas"
+                        
+                    },
+                    "parentId": "dad1a727-ee14-4584-96fd-a55611ef16e5",
+                    "chapterId": "a2f482c2-f6f1-43b8-bea2-f0750cd22b6b",
+                    "subchapters": [
+                        {
+                            "chapterInfo": {
+                                "chapterId": "fefbdcf2-70a5-43ae-9b6b-53f1f7edeed3",
+                                "parentId": "a2f482c2-f6f1-43b8-bea2-f0750cd22b6b",
+                                "name": "Pilotes \"in situ\""
+                                
+                            },
+                            "parentId": "a2f482c2-f6f1-43b8-bea2-f0750cd22b6b",
+                           
+                            "chapterId": "fefbdcf2-70a5-43ae-9b6b-53f1f7edeed3",
+                            "subchapters": []
+                           
+                        },
+                        {
+                            "chapterInfo": {
+                                "chapterId": "30607838-b743-4f46-b52e-e40aeb9726b2",
+            
+                                "parentId": "a2f482c2-f6f1-43b8-bea2-f0750cd22b6b",
+                                "name": "Pilotes prefabricados"
+                                
+                            },
+                            "parentId": "a2f482c2-f6f1-43b8-bea2-f0750cd22b6b",
+                            "chapterId": "30607838-b743-4f46-b52e-e40aeb9726b2",
+                            "subchapters": []
+                        },
+                        {
+                            "chapterInfo": {
+                                "chapterId": "f9525d47-53b4-4829-bc98-d92e4a82fe15",
+            
+                                "parentId": "a2f482c2-f6f1-43b8-bea2-f0750cd22b6b",
+                                "name": "Micropilotes"
+                                
+                            },
+                            "parentId": "a2f482c2-f6f1-43b8-bea2-f0750cd22b6b",
+                            
+                            "chapterId": "f9525d47-53b4-4829-bc98-d92e4a82fe15",
+                            "subchapters": []
+                        },
+                        {
+                            "chapterInfo": {
+                                "chapterId": "a370d157-325c-412b-a6b6-e732099e928d",
+            
+                                "parentId": "a2f482c2-f6f1-43b8-bea2-f0750cd22b6b",
+                                "name": "Pilotes roscados"
+                         
+                            },
+                            "parentId": "a2f482c2-f6f1-43b8-bea2-f0750cd22b6b",
+                            "chapterId": "a370d157-325c-412b-a6b6-e732099e928d",
+                            "subchapters": []
+                        },
+                        {
+                            "chapterInfo": {
+                                "chapterId": "a1a08bc6-7cb7-441d-85a3-d40169c03fe6",
+            
+                                "parentId": "a2f482c2-f6f1-43b8-bea2-f0750cd22b6b",
+                                "name": "Pilotes-pantalla (barrettes)"
+                                
+                               
+                            },
+                            "parentId": "a2f482c2-f6f1-43b8-bea2-f0750cd22b6b",
+                            "chapterId": "a1a08bc6-7cb7-441d-85a3-d40169c03fe6",
+                            "subchapters": []
+                        }
+                    ]
+                },
+                {
+                    "chapterInfo": {
+                        "chapterId": "b4093280-8197-4d07-ad0c-4c8d93616071",
+                        "parentId": "dad1a727-ee14-4584-96fd-a55611ef16e5",
+                        "name": "Semiprofundas"
+                    },
+                    "parentId": "dad1a727-ee14-4584-96fd-a55611ef16e5",
+                    "chapterId": "b4093280-8197-4d07-ad0c-4c8d93616071",
+                    "subchapters": [
+                        {
+                            "chapterInfo": {
+                                "chapterId": "8d2a8a2e-adda-4e28-834b-96cc2486dffc",
+            
+                                "parentId": "b4093280-8197-4d07-ad0c-4c8d93616071",
+                                "name": "Pozos de cimentación"
+
+                            },
+                            "parentId": "b4093280-8197-4d07-ad0c-4c8d93616071",
+                            "chapterId": "8d2a8a2e-adda-4e28-834b-96cc2486dffc",
+                            "subchapters": []
+                        }
+                    ]
+                },
+                {
+                    "chapterInfo": {
+                        "chapterId": "1ff671bf-ebdb-4a01-a309-4bba0a63040c",
+    
+                        "parentId": "dad1a727-ee14-4584-96fd-a55611ef16e5",
+                        "name": "Regularización"
+                    },
+                    "parentId": "dad1a727-ee14-4584-96fd-a55611ef16e5",
+                    "chapterId": "1ff671bf-ebdb-4a01-a309-4bba0a63040c",
+                    "subchapters": [
+                        {
+                            "chapterInfo": {
+                                "chapterId": "e85d6c07-8198-4d0d-b53d-2e1bac855abe",
+            
+                                "parentId": "1ff671bf-ebdb-4a01-a309-4bba0a63040c",
+                                "name": "Hormigón de limpieza"
+
+                            },
+                            "parentId": "1ff671bf-ebdb-4a01-a309-4bba0a63040c",
+                            "chapterId": "e85d6c07-8198-4d0d-b53d-2e1bac855abe",
+                            "subchapters": []
+                        }
+                    ]
+                },
+                {
+                    "chapterInfo": {
+                        "chapterId": "1073eff1-5ff0-4039-835c-34d540664560",
+    
+                        "parentId": "dad1a727-ee14-4584-96fd-a55611ef16e5",
+                        "name": "Encepados"
+                    },
+                    "parentId": "dad1a727-ee14-4584-96fd-a55611ef16e5",
+                    "chapterId": "1073eff1-5ff0-4039-835c-34d540664560",
+                    "subchapters": [
+                        {
+                            "chapterInfo": {
+                                "chapterId": "57cd5fa2-680c-4e1c-befa-8bbee6a907de",
+            
+                                "parentId": "1073eff1-5ff0-4039-835c-34d540664560",
+                                "name": "De pilotes"
+
+                            },
+                            "parentId": "1073eff1-5ff0-4039-835c-34d540664560",
+                            "chapterId": "57cd5fa2-680c-4e1c-befa-8bbee6a907de",
+                            "subchapters": []
+                        },
+                        {
+                            "chapterInfo": {
+                                "chapterId": "a7d5c65a-593f-45cc-b63b-3836fc2d9463",
+            
+                                "parentId": "1073eff1-5ff0-4039-835c-34d540664560",
+                                "name": "De micropilotes"
+
+                            },
+                            "parentId": "1073eff1-5ff0-4039-835c-34d540664560",
+                            "chapterId": "a7d5c65a-593f-45cc-b63b-3836fc2d9463",
+                            "subchapters": []
+                        }
+                    ]
+                },
+                {
+                    "chapterInfo": {
+                        "chapterId": "9f917b28-bd6b-4a7a-b5e0-ce245fdda593",
+    
+                        "parentId": "dad1a727-ee14-4584-96fd-a55611ef16e5",
+                        "name": "Contenciones"
+                    },
+                    "parentId": "dad1a727-ee14-4584-96fd-a55611ef16e5",
+                    "chapterId": "9f917b28-bd6b-4a7a-b5e0-ce245fdda593",
+                    "subchapters": []
+                    
+                },
+                {
+                    "chapterInfo": {
+                        "chapterId": "e8c1c9a3-85dd-4591-bfb2-cbe4b33feecb",
+    
+                        "parentId": "dad1a727-ee14-4584-96fd-a55611ef16e5",
+                        "name": "Superficiales"
+                    },
+                    "parentId": "dad1a727-ee14-4584-96fd-a55611ef16e5",
+                    "chapterId": "e8c1c9a3-85dd-4591-bfb2-cbe4b33feecb",
+                    "subchapters": []
+                    
+                },
+                {
+                    "chapterInfo": {
+                        "chapterId": "06a0d2ed-0fa1-4acd-86f9-93b2557a8083",
+    
+                        "parentId": "dad1a727-ee14-4584-96fd-a55611ef16e5",
+                        "name": "Arriostramientos"
+                    },
+                    "parentId": "dad1a727-ee14-4584-96fd-a55611ef16e5",
+                    "chapterId": "06a0d2ed-0fa1-4acd-86f9-93b2557a8083",
+                    "subchapters": []
+                    
+                },
+                {
+                    "chapterInfo": {
+                        "chapterId": "91717824-f3f7-4cb0-a93f-cbb3d58b6631",
+    
+                        "parentId": "dad1a727-ee14-4584-96fd-a55611ef16e5",
+                        "name": "Nivelación"
+                    },
+                    "parentId": "dad1a727-ee14-4584-96fd-a55611ef16e5",
+                    "chapterId": "91717824-f3f7-4cb0-a93f-cbb3d58b6631",
+                    "subchapters": []
+                },
+                {
+                    "chapterInfo": {
+                        "chapterId": "6bca152f-c474-4537-8f6d-8a3baea9c25f",
+    
+                        "parentId": "dad1a727-ee14-4584-96fd-a55611ef16e5",
+                        "name": "Tablestacas"
+                    },
+                    "parentId": "dad1a727-ee14-4584-96fd-a55611ef16e5",
+                    "chapterId": "6bca152f-c474-4537-8f6d-8a3baea9c25f",
+                    "subchapters": []
+                },
+                {
+                    "chapterInfo": {
+                        "chapterId": "d1d03d42-c669-48e1-993b-1b2d1cf1d375",
+    
+                        "parentId": "dad1a727-ee14-4584-96fd-a55611ef16e5",
+                        "name": "Elementos singulares"
+                    },
+                    "parentId": "dad1a727-ee14-4584-96fd-a55611ef16e5",
+                    "chapterId": "d1d03d42-c669-48e1-993b-1b2d1cf1d375",
+                    "subchapters": []
+                },
+                {
+                    "chapterInfo": {
+                        "chapterId": "a97d0ae2-b5d8-4e00-a912-eaf3864176fc",
+    
+                        "parentId": "dad1a727-ee14-4584-96fd-a55611ef16e5",
+                        "name": "Hormigones, aceros y encofrados"
+                    },
+                    "parentId": "dad1a727-ee14-4584-96fd-a55611ef16e5",
+                    "chapterId": "a97d0ae2-b5d8-4e00-a912-eaf3864176fc",
+                    "subchapters": []
+                },
+                {
+                    "chapterInfo": {
+                        "chapterId": "7fc189ef-8019-4071-abb2-5556e22ca27e",
+                        "parentId": "dad1a727-ee14-4584-96fd-a55611ef16e5",
+                        "name": "Seguridad y salud"
+                    },
+                    "parentId": "dad1a727-ee14-4584-96fd-a55611ef16e5",
+                    "chapterId": "7fc189ef-8019-4071-abb2-5556e22ca27e",
+                    "subchapters": []
+                }
+            ]
+        },
+        {
+            "chapterInfo": {
+                "chapterId": "7504c73b-ea52-4963-8502-6618cb81d159",
+                "parentId": "root",
+                "name": "\r\nEstructura"
+            },
+            "parentId": "root",
+            "chapterId": "7504c73b-ea52-4963-8502-6618cb81d159",
+            "subchapters": [
+                {
+                    "chapterInfo": {
+                        "chapterId": "b23c451a-0235-422e-9a52-b80c299fd899",
+    
+                        "parentId": "7504c73b-ea52-4963-8502-6618cb81d159",
+                        "name": "Acero"
+                    },
+                    "parentId": "7504c73b-ea52-4963-8502-6618cb81d159",
+                    "chapterId": "b23c451a-0235-422e-9a52-b80c299fd899",
+                    "subchapters": [
+                        {
+                            "chapterInfo": {
+                                "chapterId": "207bbee4-fdc0-4c46-a9a2-104392f7d28d",
+            
+                                "parentId": "b23c451a-0235-422e-9a52-b80c299fd899",
+                                "name": "Escaleras, pasarelas y plataformas de trabajo"
+
+                            },
+                            "parentId": "b23c451a-0235-422e-9a52-b80c299fd899",
+                            "chapterId": "207bbee4-fdc0-4c46-a9a2-104392f7d28d",
+                            "subchapters": []
+                        },
+                        {
+                            "chapterInfo": {
+                                "chapterId": "17169041-01d7-4ecb-bef8-d15d0da6301d",
+            
+                                "parentId": "b23c451a-0235-422e-9a52-b80c299fd899",
+                                "name": "Forjados"
+
+                            },
+                            "parentId": "b23c451a-0235-422e-9a52-b80c299fd899",
+                            "chapterId": "17169041-01d7-4ecb-bef8-d15d0da6301d",
+                            "subchapters": []
+                        },
+                        {
+                            "chapterInfo": {
+                                "chapterId": "b531f87a-c7a0-4f2e-8db4-a6967fb02bd3",
+            
+                                "parentId": "b23c451a-0235-422e-9a52-b80c299fd899",
+                                "name": "Montajes industrializados"
+
+                            },
+                            "parentId": "b23c451a-0235-422e-9a52-b80c299fd899",
+                            "chapterId": "b531f87a-c7a0-4f2e-8db4-a6967fb02bd3",
+                            "subchapters": []
+                        },
+                        {
+                            "chapterInfo": {
+                                "chapterId": "fb6f006c-adb9-4144-b185-3d8e5a645ebb",
+            
+                                "parentId": "b23c451a-0235-422e-9a52-b80c299fd899",
+                                "name": "Entramados ligeros (light steel framing)"
+
+                            },
+                            "parentId": "b23c451a-0235-422e-9a52-b80c299fd899",
+                            "chapterId": "fb6f006c-adb9-4144-b185-3d8e5a645ebb",
+                            "subchapters": []
+                        },
+                        {
+                            "chapterInfo": {
+                                "chapterId": "fa38a1a0-9203-4c6a-b4e7-f317e144bf8b",
+            
+                                "parentId": "b23c451a-0235-422e-9a52-b80c299fd899",
+                                "name": "Pilares"
+
+                            },
+                            "parentId": "b23c451a-0235-422e-9a52-b80c299fd899",
+                            "chapterId": "fa38a1a0-9203-4c6a-b4e7-f317e144bf8b",
+                            "subchapters": []
+                        },
+                        {
+                            "chapterInfo": {
+                                "chapterId": "4955cee0-557a-4906-abe8-c321dcc892d2",
+            
+                                "parentId": "b23c451a-0235-422e-9a52-b80c299fd899",
+                                "name": "Estructuras para cubiertas"
+
+                            },
+                            "parentId": "b23c451a-0235-422e-9a52-b80c299fd899",
+                            "chapterId": "4955cee0-557a-4906-abe8-c321dcc892d2",
+                            "subchapters": []
+                        },
+                        {
+                            "chapterInfo": {
+                                "chapterId": "7ce99258-b184-45d3-afcb-d36fde4b99ee",
+            
+                                "parentId": "b23c451a-0235-422e-9a52-b80c299fd899",
+                                "name": "Cubiertas autoportantes"
+
+                            },
+                            "parentId": "b23c451a-0235-422e-9a52-b80c299fd899",
+                            "chapterId": "7ce99258-b184-45d3-afcb-d36fde4b99ee",
+                            "subchapters": []
+                        },
+                        {
+                            "chapterInfo": {
+                                "chapterId": "815a0bb2-5252-4da3-8862-b44118f764eb",
+            
+                                "parentId": "b23c451a-0235-422e-9a52-b80c299fd899",
+                                "name": "Viguetas"
+
+                            },
+                            "parentId": "b23c451a-0235-422e-9a52-b80c299fd899",
+                            "chapterId": "815a0bb2-5252-4da3-8862-b44118f764eb",
+                            "subchapters": []
+                        },
+                        {
+                            "chapterInfo": {
+                                "chapterId": "b3582ba7-be38-4e93-a6f6-2c5647c890ec",
+            
+                                "parentId": "b23c451a-0235-422e-9a52-b80c299fd899",
+                                "name": "Vigas"
+
+                            },
+                            "parentId": "b23c451a-0235-422e-9a52-b80c299fd899",
+                            "chapterId": "b3582ba7-be38-4e93-a6f6-2c5647c890ec",
+                            "subchapters": []
+                        },
+                        {
+                            "chapterInfo": {
+                                "chapterId": "fc5d30cc-5a51-4911-bac3-9879437e109b",
+            
+                                "parentId": "b23c451a-0235-422e-9a52-b80c299fd899",
+                                "name": "Paneles estructurales"
+
+                            },
+                            "parentId": "b23c451a-0235-422e-9a52-b80c299fd899",
+                            "chapterId": "fc5d30cc-5a51-4911-bac3-9879437e109b",
+                            "subchapters": []
+                        }
+                    ]
+                },
+                {
+                    "chapterInfo": {
+                        "chapterId": "1e8071bb-ff56-4e35-9050-50c41ebf968f",
+    
+                        "parentId": "7504c73b-ea52-4963-8502-6618cb81d159",
+                        "name": "Cantería"
+                    },
+                    "parentId": "7504c73b-ea52-4963-8502-6618cb81d159",
+                    "chapterId": "1e8071bb-ff56-4e35-9050-50c41ebf968f",
+                    "subchapters": [
+                        {
+                            "chapterInfo": {
+                                "chapterId": "b1c53634-3e70-42de-9026-70893023fbfe",
+            
+                                "parentId": "1e8071bb-ff56-4e35-9050-50c41ebf968f",
+                                "name": "Muros"
+
+                            },
+                            "parentId": "1e8071bb-ff56-4e35-9050-50c41ebf968f",
+                            "chapterId": "b1c53634-3e70-42de-9026-70893023fbfe",
+                            "subchapters": []
+                        },
+                        {
+                            "chapterInfo": {
+                                "chapterId": "83388ab8-5627-4e6b-b7f6-356381a97223",
+            
+                                "parentId": "1e8071bb-ff56-4e35-9050-50c41ebf968f",
+                                "name": "Columnas"
+
+                            },
+                            "parentId": "1e8071bb-ff56-4e35-9050-50c41ebf968f",
+                            "chapterId": "83388ab8-5627-4e6b-b7f6-356381a97223",
+                            "subchapters": []
+                        },
+                        {
+                            "chapterInfo": {
+                                "chapterId": "da6af51c-ac9d-4264-b490-853ccc255125",
+            
+                                "parentId": "1e8071bb-ff56-4e35-9050-50c41ebf968f",
+                                "name": "Arcos"
+
+                            },
+                            "parentId": "1e8071bb-ff56-4e35-9050-50c41ebf968f",
+                            "chapterId": "da6af51c-ac9d-4264-b490-853ccc255125",
+                            "subchapters": []
+                        },
+                        {
+                            "chapterInfo": {
+                                "chapterId": "c8b05c46-bdea-490f-9942-7a1b93de66a4",
+            
+                                "parentId": "1e8071bb-ff56-4e35-9050-50c41ebf968f",
+                                "name": "Remates"
+
+                            },
+                            "parentId": "1e8071bb-ff56-4e35-9050-50c41ebf968f",
+                            "chapterId": "c8b05c46-bdea-490f-9942-7a1b93de66a4",
+                            "subchapters": []
+                        }
+                    ]
+                },
+                {
+                    "chapterInfo": {
+                        "chapterId": "1101a6f0-b9b2-456e-86c7-3e34091c2976",
+    
+                        "parentId": "7504c73b-ea52-4963-8502-6618cb81d159",
+                        "name": "Fábrica"
+                    },
+                    "parentId": "7504c73b-ea52-4963-8502-6618cb81d159",
+                    "chapterId": "1101a6f0-b9b2-456e-86c7-3e34091c2976",
+                    "subchapters": []
+                   
+                },
+                {
+                    "chapterInfo": {
+                        "chapterId": "7de30f55-4eaf-4e58-9eec-e882e2439707",
+    
+                        "parentId": "7504c73b-ea52-4963-8502-6618cb81d159",
+                        "name": "Hormigón armado"
+                    },
+                    "parentId": "7504c73b-ea52-4963-8502-6618cb81d159",
+                    "chapterId": "7de30f55-4eaf-4e58-9eec-e882e2439707",
+                    "subchapters": []
+                    
+                },
+                {
+                    "chapterInfo": {
+                        "chapterId": "7d955792-2c57-4ab5-b060-08fe3e5e7342",
+    
+                        "parentId": "7504c73b-ea52-4963-8502-6618cb81d159",
+                        "name": "Madera"
+                    },
+                    "parentId": "7504c73b-ea52-4963-8502-6618cb81d159",
+                    "chapterId": "7d955792-2c57-4ab5-b060-08fe3e5e7342",
+                    "subchapters": []
+                    
+                },
+                {
+                    "chapterInfo": {
+                        "chapterId": "9a98c1fd-1156-4c2c-8e99-2a823633b4f2",
+    
+                        "parentId": "7504c73b-ea52-4963-8502-6618cb81d159",
+                        "name": "Hormigón prefabricado"
+                    },
+                    "parentId": "7504c73b-ea52-4963-8502-6618cb81d159",
+                    "chapterId": "9a98c1fd-1156-4c2c-8e99-2a823633b4f2",
+                    "subchapters": []
+                    
+                },
+                {
+                    "chapterInfo": {
+                        "chapterId": "ab889bc2-46a5-4128-b79d-e812766111e1",
+    
+                        "parentId": "7504c73b-ea52-4963-8502-6618cb81d159",
+                        "name": "Mixtas"
+                    },
+                    "parentId": "7504c73b-ea52-4963-8502-6618cb81d159",
+                    "chapterId": "ab889bc2-46a5-4128-b79d-e812766111e1",
+                    "subchapters": [
+                        {
+                            "chapterInfo": {
+                                "chapterId": "41b3a5c1-a790-407c-a201-56176330e850",
+            
+                                "parentId": "ab889bc2-46a5-4128-b79d-e812766111e1",
+                                "name": "Vigas"
+
+                            },
+                            "parentId": "ab889bc2-46a5-4128-b79d-e812766111e1",
+                            "chapterId": "41b3a5c1-a790-407c-a201-56176330e850",
+                            "subchapters": []
+                        }
+                    ]
+                },
+                {
+                    "chapterInfo": {
+                        "chapterId": "daee549b-e754-4756-b720-e4be8328a964",
+    
+                        "parentId": "7504c73b-ea52-4963-8502-6618cb81d159",
+                        "name": "Elementos especiales"
+                    },
+                    "parentId": "7504c73b-ea52-4963-8502-6618cb81d159",
+                    "chapterId": "daee549b-e754-4756-b720-e4be8328a964",
+                    "subchapters": []
+                },
+                {
+                    "chapterInfo": {
+                        "chapterId": "250908c4-c1c1-40d4-9bbd-84e8459ea4be",
+    
+                        "parentId": "7504c73b-ea52-4963-8502-6618cb81d159",
+                        "name": "primer capitulo"
+                        
+                    },
+                    "parentId": "7504c73b-ea52-4963-8502-6618cb81d159",
+                    "chapterId": "250908c4-c1c1-40d4-9bbd-84e8459ea4be",
+                    "subchapters": []
+                }
+            ]
+        }
+       
+    ]
+]

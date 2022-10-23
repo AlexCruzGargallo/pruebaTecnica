@@ -11,7 +11,6 @@ export function NewPage() {
 
   return (
     <div>
-      {console.log(tree)}
       <ChapterContainer>
         {tree.map((chapter) => {
           return (

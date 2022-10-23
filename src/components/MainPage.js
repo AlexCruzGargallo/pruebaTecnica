@@ -16,9 +16,7 @@ export function MainPage() {
           state: contextType.finalTree, // your data array of objects
         }}
       >
-        <EmptyButton onClick={() => console.log(contextType.finalTree)}>
-          Enviar
-        </EmptyButton>
+        <EmptyButton>Enviar</EmptyButton>
       </Link>
     </div>
   );

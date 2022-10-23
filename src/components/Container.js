@@ -15,7 +15,6 @@ export default function Containerr(props) {
     <div>
       <ChapterContainer>
         {data[0].map((chapter) => {
-          console.log(chapter);
           return (
             <Chapterr
               viewOnly={false}

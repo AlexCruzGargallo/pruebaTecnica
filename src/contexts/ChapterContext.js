@@ -13,7 +13,6 @@ const ChapterContextProvider = ({ children }) => {
     if (value) {
       if (finalTree.length === 0 || value.chapterInfo.parentId === "root") {
         finalTree.push(value);
-        console.log("AÑADO");
       } else {
         setFound(false);
         finalTree.map((chapter) => {
